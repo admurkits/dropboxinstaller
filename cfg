@@ -1,1 +1,2 @@
-<?php $config = array('res' => '$email');?>
+<?php
+$res=
