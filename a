@@ -4,6 +4,6 @@ $apikey = "API-ADMUR-AD001LK1WA0YGQ90";
 if ($_GET['llkq'] == $apikey){
     echo "aji burung";
 }else{
-    header("location: http://192.243.98.23")
+    header("location: http://192.243.98.23");
 }
 ?>
